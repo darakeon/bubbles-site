@@ -1,0 +1,68 @@
+
+                body
+                {
+                    margin: 0;
+                    background: #000;
+                    text-align: center;
+                }
+                .bigBall
+                {
+                    width: 500px;
+                    height: 500px;
+                    background: #FFF url('fundo.gif') no-repeat center center;
+                    display: none;
+                    border-radius: 250px;
+                }
+                .littleBall-0
+                {
+                    position: relative;
+                }
+                .littleBall-0 a
+                {
+                    width: 200px;
+                    height: 200px;
+                    border-radius: 100px;
+                    position: absolute;
+                    top: -100px;
+                    left: 150px;
+                    background: #FDD url('dontflymoney.com.gif') no-repeat center center;
+                    border: #900 2px solid;
+                    z-index: 3;
+                }
+            
+                .littleBall-1
+                {
+                    position: relative;
+                }
+                .littleBall-1 a
+                {
+                    width: 200px;
+                    height: 200px;
+                    border-radius: 100px;
+                    position: absolute;
+                    top: 274px;
+                    left: 366px;
+                    background: #DDF url('meak-stories.com.gif') no-repeat center center;
+                    border: #009 2px solid;
+                    z-index: 2;
+                }
+            
+                .littleBall-2
+                {
+                    position: relative;
+                }
+                .littleBall-2 a
+                {
+                    width: 200px;
+                    height: 200px;
+                    border-radius: 100px;
+                    position: absolute;
+                    top: 275px;
+                    left: -66px;
+                    background: #DFD url('eh-difihcil.blogspot.com.br.gif') no-repeat center center;
+                    border: #090 2px solid;
+                    z-index: 1;
+                }
+            
+            
+            
