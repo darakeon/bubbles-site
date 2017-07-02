@@ -38,7 +38,7 @@ namespace DK.Generator
             html = String.Format(
                 @"<html>
                     <head>
-                        <title>Dara Akeon</title>
+                        <title>Dara Keon</title>
                         <link type='text/css' rel='stylesheet' href='style.css' />
                         <script type='text/javascript' src='jquery.js'></script>
                         <script type='text/javascript' src='position.js'></script>
