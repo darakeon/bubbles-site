@@ -1,0 +1,9 @@
+syntax: glob
+*ReSharper*
+bin
+obj
+*.suo
+*.user
+*dotCover
+*.orig
+.hg*
