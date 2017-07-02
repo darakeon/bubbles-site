@@ -1,7 +1,7 @@
-﻿using DA.Generator.Entities;
+﻿using DK.Generator.Entities;
 using System;
 
-namespace DA.Generator
+namespace DK.Generator
 {
     class Program
     {

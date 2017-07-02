@@ -4,9 +4,9 @@ using System.IO;
 using System.Linq;
 using System.Net;
 using System.Text;
-using DA.Generator.Entities;
+using DK.Generator.Entities;
 
-namespace DA.Generator
+namespace DK.Generator
 {
     class Tests
     {

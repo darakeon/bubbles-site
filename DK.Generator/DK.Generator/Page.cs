@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using DA.Generator.Constants;
-using DA.Generator.Entities;
+using DK.Generator.Constants;
+using DK.Generator.Entities;
 
-namespace DA.Generator
+namespace DK.Generator
 {
     class Page
     {

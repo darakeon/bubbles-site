@@ -8,8 +8,8 @@
     <ProjectGuid>{2CEB237B-5950-4CF5-BFD8-6AA56F5E4F45}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DA.Generator</RootNamespace>
-    <AssemblyName>DA.Generator</AssemblyName>
+    <RootNamespace>DK.Generator</RootNamespace>
+    <AssemblyName>DK.Generator</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>

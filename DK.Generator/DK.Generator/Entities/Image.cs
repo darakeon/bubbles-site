@@ -1,8 +1,8 @@
 ﻿using System;
 using System.IO;
-using DA.Generator.Constants;
+using DK.Generator.Constants;
 
-namespace DA.Generator.Entities
+namespace DK.Generator.Entities
 {
     class Image
     {

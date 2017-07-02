@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace DA.Generator.Constants
+namespace DK.Generator.Constants
 {
     class General
     {

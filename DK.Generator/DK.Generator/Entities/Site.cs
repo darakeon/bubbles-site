@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using DA.Generator.Constants;
+using DK.Generator.Constants;
 
-namespace DA.Generator.Entities
+namespace DK.Generator.Entities
 {
     class Site
     {

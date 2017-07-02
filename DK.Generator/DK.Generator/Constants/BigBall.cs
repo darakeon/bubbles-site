@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DA.Generator.Constants
+namespace DK.Generator.Constants
 {
     class BigBall
     {
