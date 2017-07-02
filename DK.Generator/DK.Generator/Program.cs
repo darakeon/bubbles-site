@@ -16,6 +16,8 @@ namespace DK.Generator
                 new Page(sites).SaveFiles();
             }
 
+            Console.Write("Finished!");
+
             Console.ReadLine();
 
         }

@@ -2,16 +2,23 @@
                 body
                 {
                     margin: 0;
+                    padding: 0;
                     background: #000;
                     text-align: center;
                 }
+                .content
+                {
+                    width: 450px;
+                    height: 450px;
+                    padding: 100px;
+                }
                 .bigBall
                 {
-                    width: 500px;
-                    height: 500px;
+                    width: 450px;
+                    height: 450px;
                     background: #FFF url('fundo.gif') no-repeat center center;
                     display: none;
-                    border-radius: 250px;
+                    border-radius: 225px;
                 }
                 .littleBall-0
                 {
@@ -24,7 +31,7 @@
                     border-radius: 100px;
                     position: absolute;
                     top: -100px;
-                    left: 150px;
+                    left: 125px;
                     background: #FDD url('dontflymoney.com.gif') no-repeat center center;
                     border: #900 2px solid;
                     z-index: 3;
@@ -40,8 +47,8 @@
                     height: 200px;
                     border-radius: 100px;
                     position: absolute;
-                    top: 274px;
-                    left: 366px;
+                    top: 237px;
+                    left: 319px;
                     background: #DDF url('meak-stories.com.gif') no-repeat center center;
                     border: #009 2px solid;
                     z-index: 2;
@@ -57,8 +64,8 @@
                     height: 200px;
                     border-radius: 100px;
                     position: absolute;
-                    top: 275px;
-                    left: -66px;
+                    top: 237px;
+                    left: -69px;
                     background: #DFD url('eh-difihcil.blogspot.com.br.gif') no-repeat center center;
                     border: #090 2px solid;
                     z-index: 1;

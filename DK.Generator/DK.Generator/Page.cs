@@ -30,6 +30,7 @@ namespace DK.Generator
                 body
                 {{
                     margin: 0;
+                    padding: 0;
                     background: #{0};
                     text-align: center;
                 }}{1}
@@ -52,6 +53,12 @@ namespace DK.Generator
         private void createBigBall()
         {
             css = String.Format(@"
+                .content
+                {{
+                    width: {0}px;
+                    height: {0}px;
+                    padding: {4}px;
+                }}
                 .bigBall
                 {{
                     width: {0}px;
@@ -62,10 +69,10 @@ namespace DK.Generator
                 }}{3}
             "
             , BigBall.Size, BigBall.Size/2
-            , BigBall.Color, css);
+            , BigBall.Color, css, LittleBall.Size/2);
 
             html = String.Format(
-                    "<div class='bigBall'>{0}</div>"
+                    "<div class='content'><div class='bigBall'>{0}</div></div>"
                     , html
                 );
         }
